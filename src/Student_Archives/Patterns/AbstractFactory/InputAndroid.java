@@ -1,4 +1,9 @@
 package Student_Archives.Patterns.AbstractFactory;
 
-public class InputAndroid {
+public class InputAndroid implements Input {
+
+    @Override
+    public void renderizarInput() {
+        System.out.println("Input Android");
+    }
 }
