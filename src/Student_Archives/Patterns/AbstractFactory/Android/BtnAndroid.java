@@ -1,4 +1,6 @@
-package Student_Archives.Patterns.AbstractFactory;
+package Student_Archives.Patterns.AbstractFactory.Android;
+
+import Student_Archives.Patterns.AbstractFactory.interfaces.Botao;
 
 public class BtnAndroid implements Botao {
 

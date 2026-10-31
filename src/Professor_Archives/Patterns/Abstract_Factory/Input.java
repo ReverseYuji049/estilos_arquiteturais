@@ -1,4 +1,4 @@
-package Student_Archives.Patterns.AbstractFactory;
+package Professor_Archives.Patterns.Abstract_Factory;
 
 public interface Input {
     void renderizarInput();
